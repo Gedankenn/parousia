@@ -42,6 +42,15 @@ Gold `#e0b45a` and deep wine `#8b3a42` over a hand-crafted ASCII emblem.
 
 ## Preview
 
+<p align="center">
+  <img src="docs/screenshot.png" alt="Parousia banner in a terminal" width="100%" />
+  <br/>
+  <em>Parousia running in a foot terminal</em>
+</p>
+
+<details>
+<summary>Layout diagram (ASCII)</summary>
+
 ```
  ┌────────────────────────────────────────────────┐
  │  ❖═══════ ☧  P A R O U S I A ═══════❖         │
@@ -62,6 +71,8 @@ Gold `#e0b45a` and deep wine `#8b3a42` over a hand-crafted ASCII emblem.
  │    ◆  ANIMUS      shell bash · zsh            │
  └────────────────────────────────────────────────┘
 ```
+
+</details>
 
 The `HORA` module is alive — it answers with the current canonical hour
 driven by your wall clock:
